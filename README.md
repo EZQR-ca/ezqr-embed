@@ -4,6 +4,7 @@ Drop-in embeddable QR code generator widget for any website. Works without a bun
 
 Powered by [EZQR - Free QR Code Generator](https://ezqr.ca).
 
+
 ## Try it live
 
 See the embed running on a few popular code-sandbox sites:
