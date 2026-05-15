@@ -1,5 +1,7 @@
 # ezqr-embed
 
+![](./ezqr-embed.png)
+
 Drop-in embeddable QR code generator widget for any website. Works without a bundler.
 
 Powered by [EZQR - Free QR Code Generator](https://ezqr.ca).
