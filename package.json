@@ -1,0 +1,36 @@
+{
+	"name": "ezqr-embed",
+	"version": "0.1.0",
+	"description": "Drop-in embeddable QR code generator widget for any website, works without a bundler. Powered by https://ezqr.ca.",
+	"main": "src/index.js",
+	"unpkg": "src/index.js",
+	"jsdelivr": "src/index.js",
+	"files": [
+		"src",
+		"README.md",
+		"LICENSE"
+	],
+	"keywords": [
+		"qr",
+		"qr-code",
+		"qr-generator",
+		"qr-code-generator",
+		"embed",
+		"widget",
+		"embeddable",
+		"unpkg",
+		"cdn",
+		"vanilla-js",
+		"no-bundler"
+	],
+	"author": "ezqr.ca",
+	"license": "MIT",
+	"homepage": "https://ezqr.ca/embed-qr-generator",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ezqr-ca/ezqr-embed.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ezqr-ca/ezqr-embed/issues"
+	}
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>ezqr-embed example</title>
+	<style>
+		body { font-family: sans-serif; max-width: 720px; margin: 2em auto; padding: 0 1em; }
+		h1 { font-size: 1.4em; }
+		p.note { color: #5d6d7e; font-size: 0.9em; }
+	</style>
+</head>
+<body>
+	<h1>ezqr-embed — minimal example</h1>
+	<p class="note">
+		Paste a link into the generator below and download a free QR code.
+	</p>
+
+	<div data-ezqr-embed style="max-width:500px;margin:0 auto"></div>
+	<p style="font-size:12px;text-align:center;margin:8px 0;color:#5d6d7e">
+		<a href="https://ezqr.ca" target="_blank" rel="noopener" style="color:#1a6b3b;text-decoration:none">Free QR code generator</a> by EZQR
+	</p>
+
+	<!-- For local development, point at the source file. In production, use:
+	     <script src="https://unpkg.com/ezqr-embed" async></script> -->
+	<script src="../src/index.js" async></script>
+</body>
+</html>
